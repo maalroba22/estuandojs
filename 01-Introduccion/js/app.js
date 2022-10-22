@@ -23,7 +23,7 @@ tehoria.innerHTML = `
  * pinto los metodos mas usado en htlm
  */
 metodoString = document.querySelector('.metodoss')
-metodoString.innerHTML =`
+metodoString.innerHTML = `
 <h1 class="text-center p-4">Metodos string-- mas usados</h1>
             <hr>
             <ul  class="list-disc m-20 ">
